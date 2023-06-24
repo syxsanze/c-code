@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main(void)
+{
+    int input=0;
+    printf("Are you stupid? (1/0)>:\);
+    scanf("%d,&input");
+    if(input=1)
+       printf("No,you are not."/n);
+    else
+       printf("Yes"/n);
+    return0;
+}
